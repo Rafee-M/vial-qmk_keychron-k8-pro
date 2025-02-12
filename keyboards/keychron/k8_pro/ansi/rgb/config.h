@@ -73,3 +73,4 @@
 
 // Double tap Shift  to enable CAPS WORD
 #define DOUBLE_TAP_SHIFT_TURNS_ON_CAPS_WORD
+
